@@ -28,7 +28,7 @@ Original file is located at
 
 import requests
 
-api_key = "qlfjlxL5ncvGQsYbi6co1dIG51iW72T7OPj5VeZK"
+api_key = ""
 
 
 def get_apod():
