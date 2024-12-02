@@ -11,7 +11,6 @@ https://drive.google.com/file/d/16Cm2tgrpuDH8eIdxdSYyOsfDPqnJ3byd/view?usp=shari
 
 """ФИО:"""
 
-Андрюшин Игорь Игоревич
 
 """## Задание 1. HTTP-запросы, ответы и погода
 
